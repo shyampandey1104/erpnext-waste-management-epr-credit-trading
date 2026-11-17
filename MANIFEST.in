@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include waste_epr_credit *.css
+recursive-include waste_epr_credit *.csv
+recursive-include waste_epr_credit *.html
+recursive-include waste_epr_credit *.ico
+recursive-include waste_epr_credit *.js
+recursive-include waste_epr_credit *.json
+recursive-include waste_epr_credit *.md
+recursive-include waste_epr_credit *.png
+recursive-include waste_epr_credit *.py
+recursive-include waste_epr_credit *.svg
+recursive-include waste_epr_credit *.txt
+recursive-exclude waste_epr_credit *.pyc

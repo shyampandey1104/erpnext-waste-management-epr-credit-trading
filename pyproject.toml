@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "erpnext-waste-management-epr-credit-trading"
+authors = [{name = "Shyam Kumar Pandey", email = "shyamkumarpandey1104@gmail.com"}]
+description = "ERPNext EPR Waste Management Engine: CPCB Plastic & E-Waste Obligations, PIBO Audits, Recycling Certificate Verification & Credit Trading."
+version = "1.0.0"
+readme = "README.md"
+classifiers = ["Framework :: Frappe"]

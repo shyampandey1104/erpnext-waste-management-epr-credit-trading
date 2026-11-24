@@ -1,0 +1,104 @@
+{
+ "charts": [
+  {
+   "chart_name": "Erpnext Waste Management Epr Credit Trading Volume Trend",
+   "label": "Erpnext Waste Management Epr Credit Trading Volume Trend"
+  }
+ ],
+ "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Erpnext Waste Management Epr Credit Trading Workspace\", \"level\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Erpnext Waste Management Epr Credit Trading Operations\"}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Audit & Compliance\"}}]",
+ "creation": "2026-04-01 10:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "octicon octicon-package",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Erpnext Waste Management Epr Credit Trading",
+ "links": [
+  {
+   "label": "Operational Documents",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Waste Management Epr Credit Trading Entry",
+   "label": "Erpnext Waste Management Epr Credit Trading Entry",
+   "link_to": "Erpnext Waste Management Epr Credit Trading Entry",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "label": "Audit & Reports",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Waste Management Epr Credit Trading Audit Log",
+   "label": "Erpnext Waste Management Epr Credit Trading Audit Log",
+   "link_to": "Erpnext Waste Management Epr Credit Trading Audit Log",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "is_query_report": 1,
+   "label": "Erpnext Waste Management Epr Credit Trading Summary",
+   "link_to": "Erpnext Waste Management Epr Credit Trading Summary",
+   "link_type": "Report",
+   "type": "Link"
+  },
+  {
+   "label": "Configuration",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Erpnext Waste Management Epr Credit Trading Settings",
+   "label": "Erpnext Waste Management Epr Credit Trading Settings",
+   "link_to": "Erpnext Waste Management Epr Credit Trading Settings",
+   "link_type": "DocType",
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Waste_Epr_Credit",
+ "name": "Erpnext Waste Management Epr Credit Trading",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Erpnext Waste Management Epr Credit Trading Entry",
+   "label": "Recent Erpnext Waste Management Epr Credit Trading Entries"
+  }
+ ],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "All Erpnext Waste Management Epr Credit Trading Entrys",
+   "link_to": "Erpnext Waste Management Epr Credit Trading Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "label": "System Settings",
+   "link_to": "Erpnext Waste Management Epr Credit Trading Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Blue",
+   "label": "Compliance Digest",
+   "link_to": "Erpnext Waste Management Epr Credit Trading Summary",
+   "type": "Report"
+  }
+ ],
+ "title": "Erpnext Waste Management Epr Credit Trading"
+}
